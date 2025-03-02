@@ -63,3 +63,9 @@ The script automatically generates a text-based analysis report. For a more prof
 The Excel file updates automatically. To view live changes:
 1. Open `crypto_data_live.xlsx` in Microsoft Excel.
 2. Enable automatic refresh or manually reload the file periodically.
+
+
+![image](https://github.com/user-attachments/assets/d28688e4-8181-4033-bfd1-3b78a26bd5e2)
+
+
+![image](https://github.com/user-attachments/assets/259012aa-8eee-4431-ac48-f6b75c4d5dcd)
