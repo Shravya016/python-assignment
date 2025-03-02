@@ -1,0 +1,26 @@
+# Excel files
+*.xlsx
+~$*.xlsx
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local environment
+.env
+.venv
+env/
+venv/
+
+# Generated reports
+crypto_analysis_report.txt
+
+# OS specific files
+.DS_Store
+Thumbs.db 
